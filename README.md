@@ -2,7 +2,7 @@
 
 [Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
-![kafka consumer service](https://github.com/arsibux/springboot-kafka-consumer/blob/main/draw_io/kafka-consumer.png "kafka consumer service")
+![kafka consumer service](https://github.com/arsibux/springboot-kafka-consumer/blob/main/draw_io/kafka-consumer.drawio.png "kafka consumer service")
 
 ## Installation
 
