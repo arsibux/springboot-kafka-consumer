@@ -24,3 +24,8 @@ data pipelines, streaming analytics, data integration, and mission-critical appl
 
 ![terminal](https://github.com/arsibux/springboot-kafka-consumer/blob/main/docs/img/verify.png "terminal")
 
+
+## Resources
+
+* [Spring Cloud Apache Kafka](https://spring.io/projects/spring-kafka#overview)
+* [Apache Kafka with Spring](https://www.baeldung.com/spring-kafka)
